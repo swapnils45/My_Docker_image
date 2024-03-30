@@ -253,7 +253,7 @@ This message shows that your installation appears to be working correctly.
 ### Clone this repository and move to example folder
 
 ```
-git clone https://github.com/iam-veeramalla/Docker-Zero-to-Hero
+git clone https://github.com/swapnils45/My_Docker_image.git
 cd  examples
 ```
 
